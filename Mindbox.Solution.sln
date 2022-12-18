@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shapes", "Shapes\Shapes.csproj", "{DBB5FB80-2BFD-4D2F-8A7D-F30106EE3EB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.MVC", "Mindbox.MVC\Mindbox.MVC.csproj", "{32C834CF-B97F-4556-AF10-C26793BC82A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{7C94C503-F3B1-48D3-9F3D-B82F5B970BB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBB5FB80-2BFD-4D2F-8A7D-F30106EE3EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB5FB80-2BFD-4D2F-8A7D-F30106EE3EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB5FB80-2BFD-4D2F-8A7D-F30106EE3EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB5FB80-2BFD-4D2F-8A7D-F30106EE3EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32C834CF-B97F-4556-AF10-C26793BC82A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C834CF-B97F-4556-AF10-C26793BC82A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C834CF-B97F-4556-AF10-C26793BC82A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C834CF-B97F-4556-AF10-C26793BC82A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C94C503-F3B1-48D3-9F3D-B82F5B970BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C94C503-F3B1-48D3-9F3D-B82F5B970BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C94C503-F3B1-48D3-9F3D-B82F5B970BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C94C503-F3B1-48D3-9F3D-B82F5B970BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DFAE1E8-B951-420B-8028-8B39E8C5D12F}
+	EndGlobalSection
+EndGlobal

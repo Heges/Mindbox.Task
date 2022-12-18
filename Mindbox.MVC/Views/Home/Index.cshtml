@@ -1,0 +1,12 @@
+﻿@model Dictionary<string, string>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@if (Model != null)
+{
+    @foreach (var item in Model)
+    {
+        <h2>@item.Key : @item.Value</h2>
+    }
+}
